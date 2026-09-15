@@ -1,0 +1,102 @@
+|   # | Producto                      | Categoría           | Marca          | Presentación   | Stock | Mín. | Máx. | Costo | Precio | Proveedor       | Código/SKU | Ubicación      | Estado |
+| --: | ----------------------------- | ------------------- | -------------- | -------------- | ----: | ---: | ---: | ----: | -----: | --------------- | ---------- | -------------- | ------ |
+|   1 | Coca-Cola Original            | Refresco            | Coca-Cola      | 355 ml lata    |    85 |   20 |  150 |   $13 |    $20 | Coca-Cola FEMSA | REF-001    | Refrigerador 1 |        |
+|   2 | Coca-Cola Original            | Refresco            | Coca-Cola      | 600 ml         |    72 |   20 |  120 |   $15 |    $24 | Coca-Cola FEMSA | REF-002    | Refrigerador 1 |        |
+|   3 | Coca-Cola Original            | Refresco            | Coca-Cola      | 1.5 L          |    48 |   15 |   80 |   $24 |    $38 | Coca-Cola FEMSA | REF-003    | Almacén        |        |
+|   4 | Coca-Cola Original            | Refresco            | Coca-Cola      | 2.5 L          |    35 |   10 |   60 |   $31 |    $48 | Coca-Cola FEMSA | REF-004    | Almacén        |        |
+|   5 | Coca-Cola Sin Azúcar          | Refresco            | Coca-Cola      | 355 ml lata    |    63 |   20 |  120 |   $13 |    $20 | Coca-Cola FEMSA | REF-005    | Refrigerador 1 |        |
+|   6 | Coca-Cola Sin Azúcar          | Refresco            | Coca-Cola      | 600 ml         |    51 |   15 |  100 |   $15 |    $24 | Coca-Cola FEMSA | REF-006    | Refrigerador 1 |        |
+|   7 | Coca-Cola Light               | Refresco            | Coca-Cola      | 355 ml lata    |    42 |   15 |  100 |   $13 |    $20 | Coca-Cola FEMSA | REF-007    | Refrigerador 1 |        |
+|   8 | Coca-Cola Cherry              | Refresco            | Coca-Cola      | 355 ml lata    |    29 |   10 |   80 |   $14 |    $22 | Coca-Cola FEMSA | REF-008    | Refrigerador 1 |        |
+|   9 | Fanta Naranja                 | Refresco            | Fanta          | 355 ml lata    |    74 |   20 |  130 |   $12 |    $20 | Coca-Cola FEMSA | REF-009    | Refrigerador 1 |        |
+|  10 | Fanta Naranja                 | Refresco            | Fanta          | 600 ml         |    56 |   20 |  100 |   $15 |    $24 | Coca-Cola FEMSA | REF-010    | Refrigerador 1 |        |
+|  11 | Fanta Naranja                 | Refresco            | Fanta          | 2 L            |    31 |   10 |   60 |   $27 |    $42 | Coca-Cola FEMSA | REF-011    | Almacén        |        |
+|  12 | Sprite                        | Refresco            | Sprite         | 355 ml lata    |    69 |   20 |  120 |   $12 |    $20 | Coca-Cola FEMSA | REF-012    | Refrigerador 1 |        |
+|  13 | Sprite                        | Refresco            | Sprite         | 600 ml         |    62 |   20 |  120 |   $15 |    $24 | Coca-Cola FEMSA | REF-013    | Refrigerador 1 |        |
+|  14 | Sprite                        | Refresco            | Sprite         | 2 L            |    27 |   10 |   60 |   $27 |    $42 | Coca-Cola FEMSA | REF-014    | Almacén        |        |
+|  15 | Sidral Mundet                 | Refresco            | Mundet         | 355 ml lata    |    58 |   20 |  100 |   $12 |    $20 | Coca-Cola FEMSA | REF-015    | Refrigerador 1 |        |
+|  16 | Sidral Mundet                 | Refresco            | Mundet         | 600 ml         |    47 |   15 |  100 |   $15 |    $24 | Coca-Cola FEMSA | REF-016    | Refrigerador 1 |        |
+|  17 | Fresca                        | Refresco            | Fresca         | 355 ml lata    |    36 |   15 |   80 |   $12 |    $20 | Coca-Cola FEMSA | REF-017    | Refrigerador 1 |        |
+|  18 | Manzanita Sol                 | Refresco            | Pepsi          | 355 ml lata    |    67 |   20 |  120 |   $12 |    $20 | PepsiCo         | REF-018    | Refrigerador 1 |        |
+|  19 | Pepsi                         | Refresco            | Pepsi          | 355 ml lata    |    82 |   20 |  150 |   $12 |    $20 | PepsiCo         | REF-019    | Refrigerador 2 |        |
+|  20 | Pepsi                         | Refresco            | Pepsi          | 600 ml         |    71 |   20 |  120 |   $15 |    $24 | PepsiCo         | REF-020    | Refrigerador 2 |        |
+|  21 | Pepsi                         | Refresco            | Pepsi          | 2 L            |    38 |   15 |   70 |   $26 |    $40 | PepsiCo         | REF-021    | Almacén        |        |
+|  22 | Pepsi Black                   | Refresco            | Pepsi          | 355 ml lata    |    55 |   20 |  100 |   $12 |    $20 | PepsiCo         | REF-022    | Refrigerador 2 |        |
+|  23 | 7UP                           | Refresco            | 7UP            | 355 ml lata    |    49 |   15 |  100 |   $12 |    $20 | PepsiCo         | REF-023    | Refrigerador 2 |        |
+|  24 | Mirinda Naranja               | Refresco            | Mirinda        | 355 ml lata    |    44 |   15 |   90 |   $12 |    $20 | PepsiCo         | REF-024    | Refrigerador 2 |        |
+|  25 | Mountain Dew                  | Refresco            | Mountain Dew   | 355 ml lata    |    33 |   10 |   80 |   $14 |    $22 | PepsiCo         | REF-025    | Refrigerador 2 |        |
+|  26 | Jarritos Tuti Fruti           | Refresco            | Jarritos       | 600 ml         |    63 |   20 |  120 |   $13 |    $22 | Jarritos        | REF-026    | Refrigerador 2 |        |
+|  27 | Jarritos Mandarina            | Refresco            | Jarritos       | 600 ml         |    58 |   20 |  120 |   $13 |    $22 | Jarritos        | REF-027    | Refrigerador 2 |        |
+|  28 | Jarritos Piña                 | Refresco            | Jarritos       | 600 ml         |    45 |   15 |  100 |   $13 |    $22 | Jarritos        | REF-028    | Refrigerador 2 |        |
+|  29 | Jarritos Tamarindo            | Refresco            | Jarritos       | 600 ml         |    41 |   15 |  100 |   $13 |    $22 | Jarritos        | REF-029    | Refrigerador 2 |        |
+|  30 | Sangría Señorial              | Refresco            | Señorial       | 355 ml lata    |    52 |   20 |  100 |   $12 |    $20 | Grupo Peñafiel  | REF-030    | Refrigerador 2 |        |
+|  31 | Dr Pepper                     | Refresco            | Dr Pepper      | 355 ml lata    |    39 |   15 |   90 |   $13 |    $22 | Dr Pepper       | REF-031    | Refrigerador 2 |        |
+|  32 | Dr Pepper                     | Refresco            | Dr Pepper      | 600 ml         |    34 |   10 |   80 |   $16 |    $25 | Dr Pepper       | REF-032    | Refrigerador 2 |        |
+|  33 | Peñafiel Naranja              | Refresco            | Peñafiel       | 600 ml         |    48 |   15 |  100 |   $14 |    $22 | Grupo Peñafiel  | REF-033    | Refrigerador 2 |        |
+|  34 | Peñafiel Mineral              | Agua mineral        | Peñafiel       | 600 ml         |    76 |   20 |  150 |   $12 |    $20 | Grupo Peñafiel  | REF-034    | Refrigerador 2 |        |
+|  35 | Peñafiel Mineral              | Agua mineral        | Peñafiel       | 2 L            |    29 |   10 |   60 |   $22 |    $35 | Grupo Peñafiel  | REF-035    | Almacén        |        |
+|  36 | Bonafont                      | Agua                | Bonafont       | 600 ml         |    94 |   30 |  180 |    $8 |    $14 | Danone          | AGU-001    | Refrigerador 3 |        |
+|  37 | Bonafont                      | Agua                | Bonafont       | 1 L            |    61 |   20 |  120 |   $11 |    $18 | Danone          | AGU-002    | Refrigerador 3 |        |
+|  38 | Bonafont                      | Agua                | Bonafont       | 1.5 L          |    52 |   20 |  100 |   $13 |    $21 | Danone          | AGU-003    | Almacén        |        |
+|  39 | Bonafont                      | Agua                | Bonafont       | 6 L            |    24 |   10 |   50 |   $29 |    $42 | Danone          | AGU-004    | Almacén        |        |
+|  40 | Ciel                          | Agua                | Ciel           | 600 ml         |    87 |   25 |  180 |    $8 |    $14 | Coca-Cola FEMSA | AGU-005    | Refrigerador 3 |        |
+|  41 | Ciel                          | Agua                | Ciel           | 1 L            |    55 |   20 |  120 |   $10 |    $17 | Coca-Cola FEMSA | AGU-006    | Refrigerador 3 |        |
+|  42 | Ciel                          | Agua                | Ciel           | 1.5 L          |    49 |   15 |  100 |   $12 |    $20 | Coca-Cola FEMSA | AGU-007    | Almacén        |        |
+|  43 | Epura                         | Agua                | Epura          | 600 ml         |    91 |   25 |  180 |    $8 |    $14 | PepsiCo         | AGU-008    | Refrigerador 3 |        |
+|  44 | Epura                         | Agua                | Epura          | 1.5 L          |    47 |   20 |  100 |   $12 |    $20 | PepsiCo         | AGU-009    | Almacén        |        |
+|  45 | Santa María                   | Agua                | Santa María    | 600 ml         |    68 |   20 |  120 |    $9 |    $15 | Nestlé          | AGU-010    | Refrigerador 3 |        |
+|  46 | Electrolit Fresa              | Bebida hidratante   | Electrolit     | 625 ml         |    43 |   15 |  100 |   $24 |    $38 | Pisa            | HID-001    | Refrigerador 3 |        |
+|  47 | Electrolit Coco               | Bebida hidratante   | Electrolit     | 625 ml         |    37 |   15 |   80 |   $24 |    $38 | Pisa            | HID-002    | Refrigerador 3 |        |
+|  48 | Electrolit Mora Azul          | Bebida hidratante   | Electrolit     | 625 ml         |    31 |   10 |   80 |   $24 |    $38 | Pisa            | HID-003    | Refrigerador 3 |        |
+|  49 | Gatorade Lima-Limón           | Bebida deportiva    | Gatorade       | 600 ml         |    57 |   20 |  120 |   $17 |    $28 | PepsiCo         | DEP-001    | Refrigerador 3 |        |
+|  50 | Gatorade Naranja              | Bebida deportiva    | Gatorade       | 600 ml         |    64 |   20 |  120 |   $17 |    $28 | PepsiCo         | DEP-002    | Refrigerador 3 |        |
+|  51 | Gatorade Ponche               | Bebida deportiva    | Gatorade       | 600 ml         |    46 |   15 |  100 |   $17 |    $28 | PepsiCo         | DEP-003    | Refrigerador 3 |        |
+|  52 | Powerade Moras                | Bebida deportiva    | Powerade       | 600 ml         |    52 |   20 |  100 |   $16 |    $27 | Coca-Cola FEMSA | DEP-004    | Refrigerador 3 |        |
+|  53 | Powerade Cero                 | Bebida deportiva    | Powerade       | 600 ml         |    35 |   15 |   80 |   $17 |    $28 | Coca-Cola FEMSA | DEP-005    | Refrigerador 3 |        |
+|  54 | Jumex Durazno                 | Jugo                | Jumex          | 450 ml         |    61 |   20 |  120 |   $13 |    $22 | Jumex           | JUG-001    | Refrigerador 3 |        |
+|  55 | Jumex Mango                   | Jugo                | Jumex          | 450 ml         |    54 |   20 |  100 |   $13 |    $22 | Jumex           | JUG-002    | Refrigerador 3 |        |
+|  56 | Jumex Guayaba                 | Jugo                | Jumex          | 450 ml         |    39 |   15 |   90 |   $13 |    $22 | Jumex           | JUG-003    | Refrigerador 3 |        |
+|  57 | Del Valle Naranja             | Jugo                | Del Valle      | 413 ml         |    48 |   15 |  100 |   $13 |    $22 | Coca-Cola FEMSA | JUG-004    | Refrigerador 3 |        |
+|  58 | Del Valle Mango               | Jugo                | Del Valle      | 413 ml         |    43 |   15 |  100 |   $13 |    $22 | Coca-Cola FEMSA | JUG-005    | Refrigerador 3 |        |
+|  59 | Del Valle 100% Naranja        | Jugo                | Del Valle      | 1 L            |    27 |   10 |   60 |   $25 |    $38 | Coca-Cola FEMSA | JUG-006    | Almacén        |        |
+|  60 | Arizona Té Verde              | Té                  | Arizona        | 680 ml         |    44 |   15 |  100 |   $17 |    $28 | Arizona         | TE-001     | Refrigerador 3 |        |
+|  61 | Arizona Té de Durazno         | Té                  | Arizona        | 680 ml         |    38 |   15 |   90 |   $17 |    $28 | Arizona         | TE-002     | Refrigerador 3 |        |
+|  62 | Nestea Limón                  | Té                  | Nestea         | 600 ml         |    41 |   15 |  100 |   $15 |    $25 | Coca-Cola FEMSA | TE-003     | Refrigerador 3 |        |
+|  63 | Nestea Durazno                | Té                  | Nestea         | 600 ml         |    36 |   15 |   80 |   $15 |    $25 | Coca-Cola FEMSA | TE-004     | Refrigerador 3 |        |
+|  64 | Red Bull Energy Drink         | Energética          | Red Bull       | 250 ml         |    47 |   15 |  100 |   $28 |    $45 | Red Bull        | ENE-001    | Refrigerador 4 |        |
+|  65 | Red Bull Sugarfree            | Energética          | Red Bull       | 250 ml         |    39 |   15 |   90 |   $28 |    $45 | Red Bull        | ENE-002    | Refrigerador 4 |        |
+|  66 | Red Bull Yellow Edition       | Energética          | Red Bull       | 250 ml         |    31 |   10 |   80 |   $29 |    $47 | Red Bull        | ENE-003    | Refrigerador 4 |        |
+|  67 | Monster Energy                | Energética          | Monster        | 473 ml         |    52 |   20 |  100 |   $30 |    $48 | Monster         | ENE-004    | Refrigerador 4 |        |
+|  68 | Monster Ultra                 | Energética          | Monster        | 473 ml         |    45 |   15 |  100 |   $30 |    $48 | Monster         | ENE-005    | Refrigerador 4 |        |
+|  69 | Monster Mango Loco            | Energética          | Monster        | 473 ml         |    38 |   15 |   90 |   $30 |    $48 | Monster         | ENE-006    | Refrigerador 4 |        |
+|  70 | Vive100 Original              | Energética          | Vive100        | 400 ml         |    73 |   20 |  150 |   $12 |    $20 | Quala           | ENE-007    | Refrigerador 4 |        |
+|  71 | Vive100 Zero                  | Energética          | Vive100        | 400 ml         |    48 |   15 |  100 |   $12 |    $20 | Quala           | ENE-008    | Refrigerador 4 |        |
+|  72 | Volt Blue                     | Energética          | Volt           | 473 ml         |    56 |   20 |  120 |   $15 |    $25 | Volt            | ENE-009    | Refrigerador 4 |        |
+|  73 | Red Bull                      | Energética          | Red Bull       | 355 ml         |    28 |   10 |   60 |   $38 |    $60 | Red Bull        | ENE-010    | Refrigerador 4 |        |
+|  74 | Corona Extra                  | Cerveza             | Corona         | 355 ml botella |    86 |   24 |  150 |   $19 |    $32 | Grupo Modelo    | CER-001    | Refrigerador 5 |        |
+|  75 | Corona Extra                  | Cerveza             | Corona         | 355 ml lata    |    74 |   20 |  150 |   $19 |    $32 | Grupo Modelo    | CER-002    | Refrigerador 5 |        |
+|  76 | Corona Cero                   | Cerveza sin alcohol | Corona         | 355 ml         |    42 |   15 |  100 |   $19 |    $32 | Grupo Modelo    | CER-003    | Refrigerador 5 |        |
+|  77 | Modelo Especial               | Cerveza             | Modelo         | 355 ml lata    |    93 |   25 |  180 |   $20 |    $34 | Grupo Modelo    | CER-004    | Refrigerador 5 |        |
+|  78 | Modelo Especial               | Cerveza             | Modelo         | 355 ml botella |    67 |   20 |  150 |   $20 |    $34 | Grupo Modelo    | CER-005    | Refrigerador 5 |        |
+|  79 | Modelo Negra                  | Cerveza             | Modelo         | 355 ml         |    54 |   20 |  120 |   $21 |    $35 | Grupo Modelo    | CER-006    | Refrigerador 5 |        |
+|  80 | Victoria                      | Cerveza             | Victoria       | 355 ml lata    |    81 |   25 |  150 |   $18 |    $31 | Grupo Modelo    | CER-007    | Refrigerador 5 |        |
+|  81 | Victoria                      | Cerveza             | Victoria       | 473 ml lata    |    59 |   20 |  120 |   $23 |    $37 | Grupo Modelo    | CER-008    | Refrigerador 5 |        |
+|  82 | Pacífico Clara                | Cerveza             | Pacífico       | 355 ml         |    72 |   20 |  150 |   $19 |    $32 | Grupo Modelo    | CER-009    | Refrigerador 5 |        |
+|  83 | Tecate Original               | Cerveza             | Tecate         | 355 ml lata    |    65 |   20 |  120 |   $18 |    $31 | Heineken México | CER-010    | Refrigerador 5 |        |
+|  84 | Tecate Light                  | Cerveza             | Tecate         | 355 ml lata    |    51 |   15 |  100 |   $18 |    $31 | Heineken México | CER-011    | Refrigerador 5 |        |
+|  85 | Indio                         | Cerveza             | Indio          | 355 ml lata    |    63 |   20 |  120 |   $18 |    $31 | Heineken México | CER-012    | Refrigerador 5 |        |
+|  86 | Heineken                      | Cerveza             | Heineken       | 355 ml         |    76 |   20 |  150 |   $22 |    $36 | Heineken México | CER-013    | Refrigerador 5 |        |
+|  87 | Dos Equis Lager               | Cerveza             | Dos Equis      | 355 ml         |    58 |   20 |  120 |   $21 |    $35 | Heineken México | CER-014    | Refrigerador 5 |        |
+|  88 | Bohemia Clásica               | Cerveza             | Bohemia        | 355 ml         |    46 |   15 |  100 |   $22 |    $36 | Heineken México | CER-015    | Refrigerador 5 |        |
+|  89 | Vino Tinto Cabernet Sauvignon | Vino                | L.A. Cetto     | 750 ml         |    26 |   10 |   50 |  $115 |   $180 | L.A. Cetto      | VIN-001    | Bodega         |        |
+|  90 | Vino Tinto Merlot             | Vino                | L.A. Cetto     | 750 ml         |    21 |    8 |   40 |  $110 |   $175 | L.A. Cetto      | VIN-002    | Bodega         |        |
+|  91 | Vino Blanco Chardonnay        | Vino                | L.A. Cetto     | 750 ml         |    18 |    8 |   40 |  $120 |   $190 | L.A. Cetto      | VIN-003    | Bodega         |        |
+|  92 | Vino Rosado                   | Vino                | L.A. Cetto     | 750 ml         |    24 |   10 |   50 |  $105 |   $170 | L.A. Cetto      | VIN-004    | Bodega         |        |
+|  93 | José Cuervo Especial          | Tequila             | José Cuervo    | 700 ml         |    23 |    8 |   40 |  $175 |   $280 | José Cuervo     | TEQ-001    | Barra          |        |
+|  94 | Tequila 1800 Reposado         | Tequila             | 1800           | 700 ml         |    17 |    6 |   30 |  $350 |   $520 | Casa 1800       | TEQ-002    | Barra          |        |
+|  95 | Tequila Don Julio 70          | Tequila             | Don Julio      | 700 ml         |    12 |    5 |   25 |  $620 |   $900 | Diageo          | TEQ-003    | Barra          |        |
+|  96 | Bacardí Blanco                | Ron                 | Bacardí        | 750 ml         |    19 |    7 |   35 |  $190 |   $300 | Bacardí         | RON-001    | Barra          |        |
+|  97 | Absolut Vodka                 | Vodka               | Absolut        | 750 ml         |    16 |    6 |   30 |  $230 |   $350 | Pernod Ricard   | VOD-001    | Barra          |        |
+|  98 | Smirnoff                      | Vodka               | Smirnoff       | 750 ml         |    22 |    8 |   40 |  $180 |   $290 | Diageo          | VOD-002    | Barra          |        |
+|  99 | Jack Daniel's Old No. 7       | Whisky              | Jack Daniel's  | 700 ml         |    14 |    5 |   25 |  $390 |   $600 | Brown-Forman    | WHI-001    | Barra          |        |
+| 100 | Johnnie Walker Black Label    | Whisky              | Johnnie Walker | 750 ml         |    11 |    5 |   25 |  $520 |   $780 | Diageo          | WHI-002    | Barra          |        |
